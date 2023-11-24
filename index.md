@@ -8,3 +8,8 @@ fn main() {
   println!("Hello World!");
 }
 ```
+
+## TO-DO
+ - [ ] Add more headers
+ - [ ] Find more images
+ - [ ] Input new lines of code examples
